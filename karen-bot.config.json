@@ -1,6 +1,0 @@
-{
-	"bot_accounts": [{ "username": "" , "password": "" }],
-	"company_accounts": ["Wendys", "Walmart"],
-	"notification_email": "email@domain.com",
-	"proxies": []
-}
