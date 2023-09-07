@@ -13,6 +13,7 @@ Update this url with the new ngrok url from flask
 	const apiUrl = "http://6bf4-34-143-150-41.ngrok.io"; // change this line
 ```
 Use the *.ngrok.io link as it shows here
+
 ![Screen Shot 2023-09-06 at 10 15 14 PM](https://github.com/jawerty/KarenBot/assets/1999719/6cfed42a-8eba-489f-ad66-cfa467424f5d)
 
 ### The Bot
